@@ -5,6 +5,7 @@ This repository contains list of web security related resources that you can use
 - [Awesome web security lists](#awesome-web-security-lists)
 - [Books](#books)
 - [Certifications](#certifications)
+- [Cheat sheets](#cheat-sheets)
 - [Learning Platforms](#learning-platforms)
 - [OWASP Resources](#owasp-resources)
 - [Secure Coding Training](#secure-coding-training)
@@ -15,6 +16,7 @@ This repository contains list of web security related resources that you can use
 - [awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking)
 - [awesome-bugbounty-writeups](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups)
 - [awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries)
+- [Awesome Asset Discovery](https://github.com/redhuntlabs/Awesome-Asset-Discovery)
 - [static-analysis](https://github.com/analysis-tools-dev/static-analysis)
 - [AWAE-Prep](https://github.com/wetw0rk/AWAE-PREP)
 - [31-day-of-api-security-tips](https://github.com/inonshk/31-days-of-API-Security-Tips)
@@ -31,6 +33,7 @@ This repository contains list of web security related resources that you can use
 - [SecLists](https://github.com/danielmiessler/SecLists)
 - [nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook)
 - [nodejs-best-practises](https://github.com/goldbergyoni/nodebestpractices#6-security-best-practices)
+- [HackTricks Web Pentesting](https://book.hacktricks.xyz/pentesting/pentesting-web)
 
 ## Books
 - [Web Hacking 101](https://leanpub.com/web-hacking-101)
@@ -49,6 +52,27 @@ This repository contains list of web security related resources that you can use
 - [eWPTX](https://elearnsecurity.com/product/ewptxv2-certification/)
 - [eWDP](https://elearnsecurity.com/product/ewdp-certification/)
 - [GWAPT](https://www.giac.org/certification/web-application-penetration-tester-gwapt?msc=giac-focus-area)
+
+## Cheat sheets
+- XSS
+  - [XSS Vector Cheat Sheet](https://gist.github.com/kurobeats/9a613c9ab68914312cbb415134795b45)
+  - [PortSwigger XSS Cheat Sheet](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet)
+  - [XSS Filter Evasion Cheat Sheet](https://owasp.org/www-community/xss-filter-evasion-cheatsheet)
+  - [XSS Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html)
+  - [XSS Cheat sheet](https://gist.github.com/dave5623/2fe3013686e7ee1bc9324512055e146a)
+- SQLi
+  - [NetSparker SQLi Cheat Sheet](https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/)
+  - [Port Swigger SQLi Cheat Sheet](https://portswigger.net/web-security/sql-injection/cheat-sheet)
+  - [Acunetix SQLi Cheat Sheet](https://www.acunetix.com/blog/web-security-zone/sql-injection-cheat-sheet-for-developers/)
+  - [SQLi prevention cheat sheet](https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html)
+  - [Advanced SQLi Cheat sheet](https://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet)
+- NoSQLi
+  - [NoSQLi Cheat Sheet](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/NoSQL%20Injection)
+  - [HackTricks NoSQLi cheat sheet](https://book.hacktricks.xyz/pentesting-web/nosql-injection)
+- Nmap
+  - [nmap cheat sheet by Station X](https://www.stationx.net/nmap-cheat-sheet/)
+  - [Nmap GitHub cheat sheet](https://github.com/jasonniebauer/Nmap-Cheatsheet)
+  - [Infosec Institute nmap cheat sheet](https://resources.infosecinstitute.com/topic/nmap-cheat-sheet/)  
 
 ## Learning platforms
 
@@ -166,3 +190,9 @@ This repository contains list of web security related resources that you can use
 - [wappalyzer](https://github.com/AliasIO/wappalyzer)
 - [DOMPurify](https://github.com/cure53/DOMPurify)
 - [WhatWaf](https://github.com/Ekultek/WhatWaf)
+- [nmap](https://nmap.org/)
+- [SonarSearch](https://github.com/Cgboal/SonarSearch)
+- [aws-enumerator](https://github.com/shabarkin/aws-enumerator)
+- [FinalRecon](https://github.com/thewhiteh4t/FinalRecon)
+- [git leaks](https://github.com/zricethezav/gitleaks)
+- [rapidscan](https://github.com/skavngr/rapidscan)
