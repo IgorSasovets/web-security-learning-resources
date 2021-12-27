@@ -34,6 +34,7 @@ This repository contains list of web security related resources that you can use
 - [nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook)
 - [nodejs-best-practises](https://github.com/goldbergyoni/nodebestpractices#6-security-best-practices)
 - [HackTricks Web Pentesting](https://book.hacktricks.xyz/pentesting/pentesting-web)
+- [pentest-tools](https://github.com/gwen001/pentest-tools)
 
 ## Books
 - [Web Hacking 101](https://leanpub.com/web-hacking-101)
@@ -48,6 +49,7 @@ This repository contains list of web security related resources that you can use
 
 ## Certifications
 - [OSWE](https://www.offensive-security.com/awae-oswe/)
+- [OSWA](https://www.offensive-security.com/web200-oswa/)
 - [eWPT](https://elearnsecurity.com/product/ewpt-certification/)
 - [eWPTX](https://elearnsecurity.com/product/ewptxv2-certification/)
 - [eWDP](https://elearnsecurity.com/product/ewdp-certification/)
@@ -89,6 +91,7 @@ This repository contains list of web security related resources that you can use
   - [Web Defense Professional](https://my.ine.com/CyberSecurity/learning-paths/1d6ff88f-8d17-4156-91fb-5af9cfb71a37/web-defense-professional)
 - [Offensive Security](https://www.offensive-security.com/)
   - [Advanced Web Attacks and Exploitation](https://www.offensive-security.com/awae-oswe/)
+  - [Web Attacks with Kali Linux](https://www.offensive-security.com/web200-oswa/)
 - [HackTheBox](https://www.hackthebox.eu/)
   - [Web challenges](https://forum.hackthebox.eu/discussions/tagged/web)
   - [Web requests](https://academy.hackthebox.eu/course/preview/web-requests)
