@@ -55,28 +55,10 @@ This repository contains list of web security related resources that you can use
 - [eWDP](https://elearnsecurity.com/product/ewdp-certification/)
 - [GWAPT](https://www.giac.org/certification/web-application-penetration-tester-gwapt?msc=giac-focus-area)
 - [BSCP](https://portswigger.net/web-security/certification)
+- [HTB CBBH](https://academy.hackthebox.com/preview/certifications/htb-certified-bug-bounty-hunter)
 
 ## Cheat sheets
-- XSS
-  - [XSS Vector Cheat Sheet](https://gist.github.com/kurobeats/9a613c9ab68914312cbb415134795b45)
-  - [PortSwigger XSS Cheat Sheet](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet)
-  - [XSS Filter Evasion Cheat Sheet](https://owasp.org/www-community/xss-filter-evasion-cheatsheet)
-  - [XSS Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html)
-  - [XSS Cheat sheet](https://gist.github.com/dave5623/2fe3013686e7ee1bc9324512055e146a)
-  - [Tiny XSS Payloads](https://github.com/terjanq/Tiny-XSS-Payloads)
-- SQLi
-  - [NetSparker SQLi Cheat Sheet](https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/)
-  - [Port Swigger SQLi Cheat Sheet](https://portswigger.net/web-security/sql-injection/cheat-sheet)
-  - [Acunetix SQLi Cheat Sheet](https://www.acunetix.com/blog/web-security-zone/sql-injection-cheat-sheet-for-developers/)
-  - [SQLi prevention cheat sheet](https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html)
-  - [Advanced SQLi Cheat sheet](https://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet)
-- NoSQLi
-  - [NoSQLi Cheat Sheet](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/NoSQL%20Injection)
-  - [HackTricks NoSQLi cheat sheet](https://book.hacktricks.xyz/pentesting-web/nosql-injection)
-- Nmap
-  - [nmap cheat sheet by Station X](https://www.stationx.net/nmap-cheat-sheet/)
-  - [Nmap GitHub cheat sheet](https://github.com/jasonniebauer/Nmap-Cheatsheet)
-  - [Infosec Institute nmap cheat sheet](https://resources.infosecinstitute.com/topic/nmap-cheat-sheet/)  
+- [Complete list](https://github.com/IgorSasovets/web-security-learning-resources/tree/main/Cheat_sheets) 
 
 ## Learning platforms
 
@@ -157,8 +139,11 @@ This repository contains list of web security related resources that you can use
   - [Port Swigger blog](https://portswigger.net/blog)
   - [Web Hacking with Burp Suite](https://www.youtube.com/watch?v=vKudm1kDu8k)
 - [cartography](https://github.com/lyft/cartography)
+- [client-side-prototype-pollution](https://github.com/BlackFan/client-side-prototype-pollution)
 - [csp-evaluator](https://github.com/google/csp-evaluator)
+- [CyberChef](https://github.com/gchq/CyberChef)
 - [dependency-track](https://github.com/DependencyTrack/dependency-track)
+- [detect-secrets](https://github.com/Yelp/detect-secrets)
 - [DOMPurify](https://github.com/cure53/DOMPurify)
 - [EyeWitness](https://github.com/FortyNorthSecurity/EyeWitness)
 - [FinalRecon](https://github.com/thewhiteh4t/FinalRecon)
@@ -170,6 +155,7 @@ This repository contains list of web security related resources that you can use
 - [jwt-tool](https://github.com/ticarpi/jwt_tool)
 - [jwtXploiter](https://github.com/DontPanicO/jwtXploiter)
 - [LeakLooker](https://github.com/woj-ciech/LeakLooker)
+- [LinkFinder](https://github.com/GerbenJavado/LinkFinder)
 - [nikto](https://github.com/sullo/nikto)
 - [nmap](https://nmap.org/)
 - [nosqlmap](https://github.com/codingo/NoSQLMap)
@@ -182,12 +168,14 @@ This repository contains list of web security related resources that you can use
   - [zap-cli](https://github.com/Grunny/zap-cli)
   - [zap-extensions](https://github.com/zaproxy/zap-extensions)
   - [autowasp](https://github.com/PortSwigger/autowasp)
+- [pentest-tools](https://github.com/gwen001/pentest-tools)
 - [rapidscan](https://github.com/skavngr/rapidscan)
 - [S3Scanner](https://github.com/sa7mon/S3Scanner)
 - [semgrep](https://github.com/returntocorp/semgrep)
   - [Documentation](https://semgrep.dev/docs/)
   - [Playground](https://semgrep.dev/editor)
   - [Semgrep: a lightweight static analysis tool for security consultant and hackers](https://www.youtube.com/watch?v=O5mh8j7-An8)
+- [SecretFinder](https://github.com/m4ll0k/SecretFinder)
 - [Sn1per](https://github.com/1N3/Sn1per)
 - [Snyk](https://github.com/snyk/snyk)
 - [SonarQube](https://www.sonarqube.org/)
@@ -198,6 +186,7 @@ This repository contains list of web security related resources that you can use
 - [SonarSearch](https://github.com/Cgboal/SonarSearch)
 - [sqlmap](https://github.com/sqlmapproject/sqlmap)
 - [Sublist3r](https://github.com/aboul3la/Sublist3r)
+- [w3af](https://github.com/andresriancho/w3af)
 - [wappalyzer](https://github.com/AliasIO/wappalyzer)
 - [Wfuzz](https://github.com/xmendez/wfuzz)
 - [WhatWaf](https://github.com/Ekultek/WhatWaf)

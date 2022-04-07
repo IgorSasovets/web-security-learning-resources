@@ -55,6 +55,10 @@ as many vulnerabilities as possible
 - [https://community.infosecinstitute.com/discussion/129238/elearnsecurity-web-application-penetration-testing-ewpt-review](https://community.infosecinstitute.com/discussion/129238/elearnsecurity-web-application-penetration-testing-ewpt-review)
 
 ## Cheat sheets
+
+Complete list can be reviewed [here](https://github.com/IgorSasovets/web-security-learning-resources/tree/main/Cheat_sheets).
+Below you can find the most relevant cheat sheets
+
 - XSS
   - [XSS Vector Cheat Sheet](https://gist.github.com/kurobeats/9a613c9ab68914312cbb415134795b45)
   - [PortSwigger XSS Cheat Sheet](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet)
