@@ -3,7 +3,7 @@
 List of cheat sheets that cover different areas of web security
 - [Attacks](#attacks)
 - [Cloud](#cloud)
-- [Credentials][#credentials]
+- [Credentials](#credentials)
 - [Tools](#tools)
 
 ## Attacks
