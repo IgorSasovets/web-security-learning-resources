@@ -52,3 +52,10 @@ This page contains links to writeups for HTB web machines, CTFs and challenges. 
   - [Emergency](https://s1gh.sh/hackthebox-business-ctf-2021-web-emergency/)
   - [NoteQL](https://s1gh.sh/hackthebox-business-ctf-2021-web-noteql/)
   - [Time](https://s1gh.sh/hackthebox-business-ctf-2021-web-time/)
+- CyberApocalypse CTF 2022
+  - [Kryptos Support](https://infosecwriteups.com/cyber-apocalypse-ctf-2022-intergalactic-chase-write-up-6d2e89b1633e)
+  - [BlinkerFluids](https://infosecwriteups.com/cyber-apocalypse-ctf-2022-intergalactic-chase-write-up-6d2e89b1633e)
+  - [AmidstUs](https://infosecwriteups.com/cyber-apocalypse-ctf-2022-web-amidst-us-write-up-a6864e23c3b9)
+  - [Intergalactic Post](https://infosecwriteups.com/cyber-apocalypse-ctf-2022-web-intergalactic-post-write-up-9f2b1acc5386)
+  - [Mutation Lab](https://www.hackthebox.com/blog/mutation-lab-ca-ctf-2022-web-writeup)
+  - [Acnologia Portal](https://www.hackthebox.com/blog/acnologia-portal-ca-ctf-2022-web-writeup)
