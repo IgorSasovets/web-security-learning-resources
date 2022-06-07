@@ -14,3 +14,4 @@ Here is a list of applications that you can use to practise your skills in a saf
 - [Vulnerable Web Application](https://github.com/OWASP/Vulnerable-Web-Application)
 - [VAmPI](https://github.com/erev0s/VAmPI)
 - [web-security-dojo](https://www.mavensecurity.com/resources/web-security-dojo)
+- [Gin & Juice Shop](https://ginandjuice.shop/)
