@@ -59,3 +59,4 @@ This page contains links to writeups for HTB web machines, CTFs and challenges. 
   - [Intergalactic Post](https://infosecwriteups.com/cyber-apocalypse-ctf-2022-web-intergalactic-post-write-up-9f2b1acc5386)
   - [Mutation Lab](https://www.hackthebox.com/blog/mutation-lab-ca-ctf-2022-web-writeup)
   - [Acnologia Portal](https://www.hackthebox.com/blog/acnologia-portal-ca-ctf-2022-web-writeup)
+  - [Red Island](https://www.hackthebox.com/blog/red-island-ca-ctf-2022-web-writeup)
