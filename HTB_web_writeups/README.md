@@ -3,9 +3,11 @@
 This page contains links to writeups for HTB web machines, CTFs and challenges. Enjoy!
 
 ### Challenges
+
 - [web challenges writeups from Hackplayers](https://github.com/Hackplayers/hackthebox-writeups/tree/master/challenges/web)
 
 ### Machines
+
 - [Academy](https://www.youtube.com/watch?v=yQl5RA6APyQ)
 - [Armageddon](https://www.youtube.com/watch?v=8ikdbyOQsLg)
 - [BountyHunter](https://www.youtube.com/watch?v=5axsDhumfhU)
@@ -40,6 +42,7 @@ This page contains links to writeups for HTB web machines, CTFs and challenges. 
 - [Writer](https://www.youtube.com/watch?v=MkvDid7xO7o)
 
 ### CTFs
+
 - [Web Challenges - HTB x Synack RedTeamFive Capture The Flag (CTF) 2021](https://www.youtube.com/watch?v=TrWw6vrOuLI)
 - [HackTheBox Cyber Apocalypse 2021 CTF - Web Challenge Walkthroughs](https://www.youtube.com/watch?v=vqR4i730soY)
 - [Cyber Santa CTF, Day 1](https://www.youtube.com/watch?v=20FkOdoMiRU&list=PLHUKi1UlEgOLEfaxrnUFUgDPHI6VKf2RK&index=32&t=274s)

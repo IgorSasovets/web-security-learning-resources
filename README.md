@@ -1,17 +1,19 @@
 # web-security-learning-resources
+
 This repository contains list of web security related resources that you can use to gain new skills and extend knowledge
 
 ## Content
+
 - [Awesome web security lists](#awesome-web-security-lists)
 - [Books](#books)
 - [Certifications](#certifications)
 - [Cheat sheets](#cheat-sheets)
 - [Learning Platforms](#learning-platforms)
 - [OWASP Resources](#owasp-resources)
-- [Secure Coding Training](#secure-coding-training)
 - [Tools](#tools)
 
 ## Awesome Web Security lists
+
 - [awesome-web-security](https://github.com/qazbnm456/awesome-web-security)
 - [awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking)
 - [awesome-bugbounty-writeups](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups)
@@ -37,6 +39,7 @@ This repository contains list of web security related resources that you can use
 - [pentest-tools](https://github.com/gwen001/pentest-tools)
 
 ## Books
+
 - [Web Hacking 101](https://leanpub.com/web-hacking-101)
 - [The Web Application Hacker's Handbook](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470)
 - [Web Application Security: Exploitation and Countermeasures for Modern Web Applications](https://www.amazon.com/Web-Application-Security-Exploitation-Countermeasures/dp/1492053112/ref=sr_1_1?crid=2GM2DG4TXUW6&dchild=1&keywords=web+security&qid=1617222285&s=books&sprefix=Web+sec%2Cstripbooks-intl-ship%2C262&sr=1-1)
@@ -48,6 +51,7 @@ This repository contains list of web security related resources that you can use
 - [Crypto 101](https://www.crypto101.io/)
 
 ## Certifications
+
 - [OSWE](https://www.offensive-security.com/awae-oswe/)
 - [OSWA](https://www.offensive-security.com/web200-oswa/)
 - [eWPT](https://elearnsecurity.com/product/ewpt-certification/)
@@ -58,7 +62,8 @@ This repository contains list of web security related resources that you can use
 - [HTB CBBH](https://academy.hackthebox.com/preview/certifications/htb-certified-bug-bounty-hunter)
 
 ## Cheat sheets
-- [Complete list](https://github.com/IgorSasovets/web-security-learning-resources/tree/main/Cheat_sheets) 
+
+- [Complete list](https://github.com/IgorSasovets/web-security-learning-resources/tree/main/Cheat_sheets)
 
 ## Learning platforms
 
@@ -85,7 +90,7 @@ This repository contains list of web security related resources that you can use
   - [Attacking Web Applications with Ffuf](https://academy.hackthebox.eu/course/preview/attacking-web-applications-with-ffuf)
   - [Login bruteforcing](https://academy.hackthebox.eu/course/preview/login-brute-forcing)
   - [SQLMap Essentials](https://academy.hackthebox.eu/course/preview/sqlmap-essentials)
-  - [Introduction to Web Applications](https://academy.hackthebox.eu/course/preview/introduction-to-web-applications) 
+  - [Introduction to Web Applications](https://academy.hackthebox.eu/course/preview/introduction-to-web-applications)
 - [RootMe](https://www.root-me.org/en/Challenges/)
   - [Web-Client](https://www.root-me.org/en/Challenges/Web-Client/)
   - [Web-Server](https://www.root-me.org/en/Challenges/Web-Server/)
@@ -102,9 +107,10 @@ This repository contains list of web security related resources that you can use
 - [SANS](https://www.sans.org/)
   - [SEC522: Defending Web Applications Security Essentials](https://www.sans.org/cyber-security-courses/defending-web-applications-security-essentials/)
   - [SEC542: Web App Penetration Testing and Ethical Hacking](https://www.sans.org/cyber-security-courses/web-app-penetration-testing-ethical-hacking/)
-  - [SEC642: Advanced Web App Penetration Testing, Ethical Hacking, and Exploitation Techniques](https://www.sans.org/cyber-security-courses/advanced-web-app-penetration-testing-ethical-hacking/) 
+  - [SEC642: Advanced Web App Penetration Testing, Ethical Hacking, and Exploitation Techniques](https://www.sans.org/cyber-security-courses/advanced-web-app-penetration-testing-ethical-hacking/)
   
 ## OWASP Resources
+
 - [WSTG](https://owasp.org/www-project-web-security-testing-guide/)
 - [OWASP Top 10](https://owasp.org/www-project-top-ten/)
 - [OWASP API Security Top 10](https://owasp.org/www-project-api-security/)
@@ -114,16 +120,9 @@ This repository contains list of web security related resources that you can use
 - [OWASP VWAD](https://github.com/OWASP/OWASP-VWAD)
 - [Security-Shepherd](https://github.com/OWASP/SecurityShepherd)
 - [Juice Shop](https://github.com/bkimminich/juice-shop)
-  
-## Secure coding training
-- [Secure coding 101](https://academy.hackthebox.eu/course/preview/secure-coding-101-javascript)
-- [GirLab secure coding training](https://about.gitlab.com/handbook/engineering/security/secure-coding-training.html)
-- [Secure Code Warrior](https://www.securecodewarrior.com/products/training-ground)
-- [CMD+CTRL security courses](https://www.securityinnovation.com/training/software-application-security-courses/)
-- [HackEDU secure development training](https://www.hackedu.com/secure-development-training)
-- [Secure coding - secure application development](https://www.udemy.com/course/secure-coding-secure-application-development/)
 
 ## Tools
+
 - [arachni](https://github.com/Arachni/arachni)
 - [Archery](https://github.com/archerysec/archerysec)
 - [aws-enumerator](https://github.com/shabarkin/aws-enumerator)

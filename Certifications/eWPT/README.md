@@ -4,8 +4,8 @@ Here you can find tips and resources that will help you to pass the eWPT certifi
 BTW, [here](https://github.com/CyberSecurityUP/eWPT-Preparation) you can enormous amount of useful links and resources
 that are dedicated to the eWPT preparation.
 
-
 ## Content
+
 - [Tips and tricks](#tips-and-tricks)
 - [Training resources](#training-resources)
 - [Books](#books)
@@ -15,10 +15,10 @@ that are dedicated to the eWPT preparation.
 - [OWASP Resources](#owasp-resources)
 - [Reporting](#reporting)
 
-
 ## Tips and tricks
-**Disclaimer**: I used INE [Web Application Penetration testing](https://my.ine.com/CyberSecurity/courses/38316560/web-application-penetration-testing) course during my preparation. It includes all that you need to pass this exam but during 
-my learning journey I also used other resources that are listed on this page. 
+
+**Disclaimer**: I used INE [Web Application Penetration testing](https://my.ine.com/CyberSecurity/courses/38316560/web-application-penetration-testing) course during my preparation. It includes all that you need to pass this exam but during my learning journey I also used other resources that are listed on this page.
+
 - Do all the labs and challenges from the course
 - Make notes during the course
 - Do an additional research if you want to better understand a specific topic
@@ -33,6 +33,7 @@ as many vulnerabilities as possible
 - Make breaks when you're stuck
 
 ## Training resources
+
 - [Web Application Penetration testing course from INE & eLearnSecurity](https://my.ine.com/CyberSecurity/courses/38316560/web-application-penetration-testing)
 - [Port Swigger Web Academy](https://portswigger.net/web-security)
 - [TryHackMe Beginner Path](https://tryhackme.com/path/outline/beginner)
@@ -41,6 +42,7 @@ as many vulnerabilities as possible
 - [HackTheBox](https://forum.hackthebox.com/tag/web)
 
 ## Books
+
 - [Web Hacking 101](https://leanpub.com/web-hacking-101)
 - [The Web Application Hacker's Handbook](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470)
 - [Web Application Security: Exploitation and Countermeasures for Modern Web Applications](https://www.amazon.com/Web-Application-Security-Exploitation-Countermeasures/dp/1492053112/ref=sr_1_1?crid=2GM2DG4TXUW6&dchild=1&keywords=web+security&qid=1617222285&s=books&sprefix=Web+sec%2Cstripbooks-intl-ship%2C262&sr=1-1)
@@ -48,6 +50,7 @@ as many vulnerabilities as possible
 - [Real-World Bug Hunting: A Field Guide to Web Hacking](https://www.amazon.com/Real-World-Bug-Hunting-Field-Hacking/dp/1593278616/ref=sr_1_10?crid=2GM2DG4TXUW6&dchild=1&keywords=web+security&qid=1617222285&s=books&sprefix=Web+sec%2Cstripbooks-intl-ship%2C262&sr=1-10)
 
 ## Exam reviews
+
 - [Extended list of reviews](https://github.com/CyberSecurityUP/eWPT-Preparation#reviews)
 - [https://telegra.ph/eWPT-review-10-15](https://telegra.ph/eWPT-review-10-15)
 - [https://anontuttuvenus.medium.com/ewpt-review-11208fc43a9a](https://anontuttuvenus.medium.com/ewpt-review-11208fc43a9a)
@@ -109,6 +112,7 @@ Below you can find the most relevant cheat sheets
 - [mutillidae](https://github.com/webpwnized/mutillidae)
   
 ## OWASP Resources
+
 - [WSTG](https://owasp.org/www-project-web-security-testing-guide/)
 - [OWASP Top 10](https://owasp.org/www-project-top-ten/)
 - [OWASP API Security Top 10](https://owasp.org/www-project-api-security/)
@@ -116,5 +120,6 @@ Below you can find the most relevant cheat sheets
 - [OWASP-Testing-Checklist](https://github.com/tanprathan/OWASP-Testing-Checklist)
 
 ## Reporting
+
 - [TCM Security Sample Pentest report](https://github.com/hmaverickadams/TCM-Security-Sample-Pentest-Report)
 - [public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports)
