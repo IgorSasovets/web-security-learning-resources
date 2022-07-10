@@ -1,12 +1,14 @@
 # Cheat sheets
 
 List of cheat sheets that cover different areas of web security
+
 - [Attacks](#attacks)
 - [Cloud](#cloud)
 - [Credentials](#credentials)
 - [Tools](#tools)
 
 ## Attacks
+
 - XSS
   - [XSS Vector Cheat Sheet](https://gist.github.com/kurobeats/9a613c9ab68914312cbb415134795b45)
   - [PortSwigger XSS Cheat Sheet](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet)
@@ -34,13 +36,16 @@ List of cheat sheets that cover different areas of web security
   - [Subdomain enumeration cheat sheet](https://pentester.land/cheatsheets/2018/11/14/subdomains-enumeration-cheatsheet.html)
 
 ## Cloud
+
 - [Cloud pentesting cheat sheets](https://github.com/dafthack/CloudPentestCheatsheets)
 
 ## Credentials
+
 - [DefaultCreds](https://github.com/ihebski/DefaultCreds-cheat-sheet)
 - [awesome-lists-of-secrets](https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables)
 
 ## Tools
+
 - Nmap
   - [nmap cheat sheet by Station X](https://www.stationx.net/nmap-cheat-sheet/)
   - [Nmap GitHub cheat sheet](https://github.com/jasonniebauer/Nmap-Cheatsheet)
