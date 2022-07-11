@@ -6,6 +6,7 @@ List of cheat sheets that cover different areas of web security
 - [Cloud](#cloud)
 - [Credentials](#credentials)
 - [Tools](#tools)
+- [Other](#other)
 
 ## Attacks
 
@@ -60,3 +61,7 @@ List of cheat sheets that cover different areas of web security
 - Burp Suite
   - [BurpSuite cheat sheet from xl7dev](https://github.com/xl7dev/BurpSuite/blob/master/CheatSheet.md)
   - [Burp Suite cheat sheet from SANS](https://www.sans.org/posters/burp-suite-cheat-sheet/)
+
+## Other
+
+- [Web-Application-Cheatsheet](https://github.com/Ignitetechnologies/Web-Application-Cheatsheet)
