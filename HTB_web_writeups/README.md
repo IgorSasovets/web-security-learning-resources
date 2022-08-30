@@ -50,11 +50,16 @@ This page contains links to writeups for HTB web machines, CTFs and challenges. 
 - [Cyber Santa CTF, Day 3](https://www.youtube.com/watch?v=3GGpyEkt8GE&list=PLHUKi1UlEgOLEfaxrnUFUgDPHI6VKf2RK&index=34&t=30s)
 - [Cyber Santa CTF, Day 4](https://www.youtube.com/watch?v=JJD45W-C9mQ&list=PLHUKi1UlEgOLEfaxrnUFUgDPHI6VKf2RK&index=35&t=326s)
 - [Cyber Santa CTF, Day 5](https://www.youtube.com/watch?v=tV7C6HSrtm4&list=PLHUKi1UlEgOLEfaxrnUFUgDPHI6VKf2RK&index=36)
-- HTB Business CTF
+- HTB Business CTF 2021
   - [Larablog](https://s1gh.sh/hackthebox-business-ctf-2021-web-larablog/)
   - [Emergency](https://s1gh.sh/hackthebox-business-ctf-2021-web-emergency/)
   - [NoteQL](https://s1gh.sh/hackthebox-business-ctf-2021-web-noteql/)
   - [Time](https://s1gh.sh/hackthebox-business-ctf-2021-web-time/)
+- HTB Business CTF 2022
+  - [Trade](https://chenzw.medium.com/htb-business-ctf-2022-trade-ff38cf6798b8)
+  - [Debugger Unchained](https://github.com/xplo1t-sec/HTB-Business-CTF-2022/tree/master/Web%20-%20Debugger%20Unchained)
+  - [Felonious Forums](https://github.com/xplo1t-sec/HTB-Business-CTF-2022/tree/master/Web%20-%20Felonious%20Forums)
+  - [Letter Despair](https://github.com/xplo1t-sec/HTB-Business-CTF-2022/tree/master/Web%20-%20Letter%20Despair)
 - CyberApocalypse CTF 2022
   - [Kryptos Support](https://infosecwriteups.com/cyber-apocalypse-ctf-2022-intergalactic-chase-write-up-6d2e89b1633e)
   - [BlinkerFluids](https://infosecwriteups.com/cyber-apocalypse-ctf-2022-intergalactic-chase-write-up-6d2e89b1633e)
