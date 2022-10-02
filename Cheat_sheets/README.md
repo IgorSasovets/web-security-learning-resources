@@ -33,12 +33,17 @@ List of cheat sheets that cover different areas of web security
   - [File upload attacks cheat sheet, part 2](https://blog.yeswehack.com/yeswerhackers/file-upload-attacks-part-2/)
   - [File upload attacks by PortSwigger](https://portswigger.net/web-security/file-upload)
   - [File upload attacks cheat sheet from hacktricks](https://book.hacktricks.xyz/pentesting-web/file-upload)
+  - [File attacks cheat sheet, Offensive Security cheatsheet](https://cheatsheet.haax.fr/web-pentest/files-and-files-inclusions/)
+- Authentication attacks
+  - [Broken access control cheat sheet](https://0xn3va.gitbook.io/cheat-sheets/web-application/broken-authentication)
+  - [User management attacks](https://github.com/harshinsecurity/web-pentesting-checklist#user-management)
 - Subdomain enumeration
   - [Subdomain enumeration cheat sheet](https://pentester.land/cheatsheets/2018/11/14/subdomains-enumeration-cheatsheet.html)
 
 ## Cloud
 
 - [Cloud pentesting cheat sheets](https://github.com/dafthack/CloudPentestCheatsheets)
+- [HackTricks Cloud](https://cloud.hacktricks.xyz/welcome/hacktricks-cloud)
 
 ## Credentials
 
@@ -61,6 +66,10 @@ List of cheat sheets that cover different areas of web security
 - Burp Suite
   - [BurpSuite cheat sheet from xl7dev](https://github.com/xl7dev/BurpSuite/blob/master/CheatSheet.md)
   - [Burp Suite cheat sheet from SANS](https://www.sans.org/posters/burp-suite-cheat-sheet/)
+- nuclei
+  - [nuclei cheat sheet](https://cheatsheet.haax.fr/web-pentest/tools/nuclei/)
+- ffuf
+  - [ffuf cheat sheet](https://cheatsheet.haax.fr/web-pentest/tools/ffuf/)
 
 ## Other
 
