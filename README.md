@@ -36,6 +36,7 @@ This repository contains list of web security related resources that you can use
 - [nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook)
 - [nodejs-best-practises](https://github.com/goldbergyoni/nodebestpractices#6-security-best-practices)
 - [HackTricks Web Pentesting](https://book.hacktricks.xyz/pentesting/pentesting-web)
+- [HackTricks Cloud](https://cloud.hacktricks.xyz/welcome/hacktricks-cloud)
 - [pentest-tools](https://github.com/gwen001/pentest-tools)
 
 ## Books
