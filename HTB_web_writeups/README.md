@@ -68,3 +68,9 @@ This page contains links to writeups for HTB web machines, CTFs and challenges. 
   - [Mutation Lab](https://www.hackthebox.com/blog/mutation-lab-ca-ctf-2022-web-writeup)
   - [Acnologia Portal](https://www.hackthebox.com/blog/acnologia-portal-ca-ctf-2022-web-writeup)
   - [Red Island](https://www.hackthebox.com/blog/red-island-ca-ctf-2022-web-writeup)
+- Hack The Boo CTF 2022
+  - [Evaluation Deck](https://mukarramkhalid.com/hack-the-box-hack-the-boo-writeups/#web---evaluation-deck)
+  - [Spookifier](https://mukarramkhalid.com/hack-the-box-hack-the-boo-writeups/#web---spookifier)
+  - [Horror Feeds](https://mukarramkhalid.com/hack-the-box-hack-the-boo-writeups/#web---horror-feeds)
+  - [Juggling Facts](https://mukarramkhalid.com/hack-the-box-hack-the-boo-writeups/#web---juggling-facts)
+  - [Cursed Secret Party](https://mukarramkhalid.com/hack-the-box-hack-the-boo-writeups/#web---cursed-secret-party)
