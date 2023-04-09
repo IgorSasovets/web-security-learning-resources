@@ -74,3 +74,12 @@ This page contains links to writeups for HTB web machines, CTFs and challenges. 
   - [Horror Feeds](https://mukarramkhalid.com/hack-the-box-hack-the-boo-writeups/#web---horror-feeds)
   - [Juggling Facts](https://mukarramkhalid.com/hack-the-box-hack-the-boo-writeups/#web---juggling-facts)
   - [Cursed Secret Party](https://mukarramkhalid.com/hack-the-box-hack-the-boo-writeups/#web---cursed-secret-party)
+- CyberApocalypse CTF 2023
+  - [Trapped Source](https://github.com/IgorSasovets/ctf-writeups/blob/master/HTB_CyberApocalypse_CTF_2023/Writeup_CyberApocalypse_Cursed_Mission_2023.pdf)
+  - [Drobots](https://github.com/IgorSasovets/ctf-writeups/blob/master/HTB_CyberApocalypse_CTF_2023/Writeup_CyberApocalypse_Cursed_Mission_2023.pdf)
+  - [Gunhead](https://github.com/IgorSasovets/ctf-writeups/blob/master/HTB_CyberApocalypse_CTF_2023/Writeup_CyberApocalypse_Cursed_Mission_2023.pdf)
+  - [Passman](https://github.com/IgorSasovets/ctf-writeups/blob/master/HTB_CyberApocalypse_CTF_2023/Writeup_CyberApocalypse_Cursed_Mission_2023.pdf)
+  - [Orbital](https://github.com/IgorSasovets/ctf-writeups/blob/master/HTB_CyberApocalypse_CTF_2023/Writeup_CyberApocalypse_Cursed_Mission_2023.pdf)
+  - [SpyBug](https://github.com/sbencoding/htb_ca2023_writeups/blob/master/web/spybug.md)
+  - [Didactic Octo Paddles](https://github.com/sbencoding/htb_ca2023_writeups/blob/master/web/didactic_octo_paddles.md)
+  - [UnEartly Shop](https://github.com/sbencoding/htb_ca2023_writeups/tree/master/web/unearthly_shop)
