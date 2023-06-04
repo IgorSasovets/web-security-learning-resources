@@ -27,6 +27,9 @@ Cloud platform security/penetration testing.
 - [HackTricks Cloud: AWS Pentesting](https://cloud.hacktricks.xyz/pentesting-cloud/aws-security)
 - [Breaching the Cloud w/ Beau Bullock](https://www.antisyphontraining.com/breaching-the-cloud-w-beau-bullock/)
 - [Penetration Testing on AWS: A Practical Guide](https://www.hackerone.com/knowledge-center/penetration-testing-aws-practical-guide)
+- [Vulnmachines: Cloud Labs](https://www.vulnmachines.com/)
+- [Certified AWS Cloud Red Team Specialist](https://www.cyberwarfare.live/courses/certified-aws-cloud-red-team-specialist)
+- [TryHackMe: Attacking and Defending AWS](https://resources.tryhackme.com/attacking-and-defending-aws)
 
 ## Certifications
 
@@ -36,3 +39,4 @@ Cloud platform security/penetration testing.
 - [CSA Certificate of Cloud Security Knowledge (CCSK)](https://cloudsecurityalliance.org/education/ccsk/)
 - [CSA Certificate of Cloud Auditing Knowledge (CCAK)](https://cloudsecurityalliance.org/education/ccak/)
 - [(ISC)² Certified Cloud Security Professional (CCSP)](https://www.isc2.org/Certifications/CCSP)
+- [CCSP-AWS: AWS Certified Cloud Security Practitioner](https://secops.group/certifications/certified-cloud-security-practitioner-aws-ccsp-aws/)
