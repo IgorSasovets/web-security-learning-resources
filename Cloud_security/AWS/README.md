@@ -30,6 +30,8 @@ Cloud platform security/penetration testing.
 - [Vulnmachines: Cloud Labs](https://www.vulnmachines.com/)
 - [Certified AWS Cloud Red Team Specialist](https://www.cyberwarfare.live/courses/certified-aws-cloud-red-team-specialist)
 - [TryHackMe: Attacking and Defending AWS](https://resources.tryhackme.com/attacking-and-defending-aws)
+  - [TryHackMe: Attacking and Defending AWS, video course by Tyler Ramsbey](https://www.youtube.com/watch?v=JUO-m5ga-gc&list=PLMoaZm9nyKaMwjXerbr2xXPgv_4uBOqU0)
+- [AWS Security Series: IAM Vulnerable](https://www.youtube.com/watch?v=za_j7QvcsrY&list=PLi0kul0fEhZ9P5XuQPhEFwxBntUHLk5Bm)
 
 ## Certifications
 
