@@ -32,6 +32,7 @@ Cloud platform security/penetration testing.
 - [TryHackMe: Attacking and Defending AWS](https://resources.tryhackme.com/attacking-and-defending-aws)
   - [TryHackMe: Attacking and Defending AWS, video course by Tyler Ramsbey](https://www.youtube.com/watch?v=JUO-m5ga-gc&list=PLMoaZm9nyKaMwjXerbr2xXPgv_4uBOqU0)
 - [AWS Security Series: IAM Vulnerable](https://www.youtube.com/watch?v=za_j7QvcsrY&list=PLi0kul0fEhZ9P5XuQPhEFwxBntUHLk5Bm)
+- [Offensive Cloud](https://github.com/lutzenfried/OffensiveCloud)
 
 ## Certifications
 
@@ -42,3 +43,4 @@ Cloud platform security/penetration testing.
 - [CSA Certificate of Cloud Auditing Knowledge (CCAK)](https://cloudsecurityalliance.org/education/ccak/)
 - [(ISC)² Certified Cloud Security Professional (CCSP)](https://www.isc2.org/Certifications/CCSP)
 - [CCSP-AWS: AWS Certified Cloud Security Practitioner](https://secops.group/certifications/certified-cloud-security-practitioner-aws-ccsp-aws/)
+- [AWS Cloud Red Team Specialist (CARTS)](https://cyberwarfare.live/product/aws-cloud-red-team-specialist-carts/)
