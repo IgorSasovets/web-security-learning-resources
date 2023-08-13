@@ -33,6 +33,7 @@ Cloud platform security/penetration testing.
   - [TryHackMe: Attacking and Defending AWS, video course by Tyler Ramsbey](https://www.youtube.com/watch?v=JUO-m5ga-gc&list=PLMoaZm9nyKaMwjXerbr2xXPgv_4uBOqU0)
 - [AWS Security Series: IAM Vulnerable](https://www.youtube.com/watch?v=za_j7QvcsrY&list=PLi0kul0fEhZ9P5XuQPhEFwxBntUHLk5Bm)
 - [Offensive Cloud](https://github.com/lutzenfried/OffensiveCloud)
+- [Wiz's IAM Challenge writeup](https://kknowl.es/posts/wiz-iam-challenge/)
 
 ## Certifications
 
