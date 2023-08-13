@@ -83,3 +83,6 @@ This page contains links to writeups for HTB web machines, CTFs and challenges. 
   - [SpyBug](https://github.com/sbencoding/htb_ca2023_writeups/blob/master/web/spybug.md)
   - [Didactic Octo Paddles](https://github.com/sbencoding/htb_ca2023_writeups/blob/master/web/didactic_octo_paddles.md)
   - [UnEartly Shop](https://github.com/sbencoding/htb_ca2023_writeups/tree/master/web/unearthly_shop)
+- Business CTF 2023
+  - [Lazy Ballot](https://github.com/IgorSasovets/ctf-writeups/blob/master/HTB_Business_CTF_2023/HTB_Business_CTF_2023.pdf)
+  - [WaterSnake](https://github.com/IgorSasovets/ctf-writeups/blob/master/HTB_Business_CTF_2023/HTB_Business_CTF_2023.pdf)
