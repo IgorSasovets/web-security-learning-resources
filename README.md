@@ -55,12 +55,13 @@ This repository contains list of web security related resources that you can use
 
 - [OSWE](https://www.offensive-security.com/awae-oswe/)
 - [OSWA](https://www.offensive-security.com/web200-oswa/)
-- [eWPT](https://elearnsecurity.com/product/ewpt-certification/)
-- [eWPTX](https://elearnsecurity.com/product/ewptxv2-certification/)
-- [eWDP](https://elearnsecurity.com/product/ewdp-certification/)
+- [eWPT](https://security.ine.com/certifications/ewpt-certification/)
+- [eWPTX](https://security.ine.com/certifications/ewptx-certification/)
 - [GWAPT](https://www.giac.org/certification/web-application-penetration-tester-gwapt?msc=giac-focus-area)
 - [BSCP](https://portswigger.net/web-security/certification)
 - [HTB CBBH](https://academy.hackthebox.com/preview/certifications/htb-certified-bug-bounty-hunter)
+- [Certified API Security Analyst (CASA)](https://www.apisecuniversity.com/courses/certified-api-security-analyst-exam)
+- [API Security Certified Professional (ASCP) Exam](https://www.apisecuniversity.com/courses/api-security-certified-professional-exam)
 
 ## Cheat sheets
 
@@ -73,8 +74,9 @@ This repository contains list of web security related resources that you can use
   - [Web Fundamentals path](https://www.tryhackme.com/path-action/web/join)
 - [PentesterLab](https://pentesterlab.com/)
 - [Web Security Academy](https://portswigger.net/web-security)
+  - [Learning paths list](https://portswigger.net/web-security/learning-paths) 
 - [INE](https://my.ine.com/learning-paths)
-  - [Web Application Penetration Testing Professional](https://my.ine.com/CyberSecurity/learning-paths/50d07b7c-1224-4bda-a57b-3954e189bfc1/web-application-penetration-tester-professional)
+  - [Web Application Penetration Testing Professional](https://my.ine.com/CyberSecurity/learning-paths/8c322180-1499-40c7-af8f-a877554fca3d/web-application-penetration-testing-professional-ewptv2)
   - [Advanced Web Application Penetration Testing](https://my.ine.com/CyberSecurity/learning-paths/7d3a5df8-a6cf-4855-b686-30e9d7e76425/advanced-web-application-penetration-testing)
   - [Web Defense Professional](https://my.ine.com/CyberSecurity/learning-paths/1d6ff88f-8d17-4156-91fb-5af9cfb71a37/web-defense-professional)
 - [Offensive Security](https://www.offensive-security.com/)
@@ -92,6 +94,12 @@ This repository contains list of web security related resources that you can use
   - [Login bruteforcing](https://academy.hackthebox.eu/course/preview/login-brute-forcing)
   - [SQLMap Essentials](https://academy.hackthebox.eu/course/preview/sqlmap-essentials)
   - [Introduction to Web Applications](https://academy.hackthebox.eu/course/preview/introduction-to-web-applications)
+  - [Intro to whitebox pentesting](https://academy.hackthebox.com/course/preview/intro-to-whitebox-pentesting)
+  - [Whitebox attacks](https://academy.hackthebox.com/course/preview/whitebox-attacks)
+  - [Web Service & API attacks](https://academy.hackthebox.com/course/preview/web-service--api-attacks)
+  - [Modern Web Exploitation Techniques](https://academy.hackthebox.com/course/preview/modern-web-exploitation-techniques)
+  - [Parameter logic bugs](https://academy.hackthebox.com/course/preview/parameter-logic-bugs)
+  - [Advanced deserialization attacks](https://academy.hackthebox.com/course/preview/advanced-deserialization-attacks)
 - [RootMe](https://www.root-me.org/en/Challenges/)
   - [Web-Client](https://www.root-me.org/en/Challenges/Web-Client/)
   - [Web-Server](https://www.root-me.org/en/Challenges/Web-Server/)
@@ -109,6 +117,7 @@ This repository contains list of web security related resources that you can use
   - [SEC522: Defending Web Applications Security Essentials](https://www.sans.org/cyber-security-courses/defending-web-applications-security-essentials/)
   - [SEC542: Web App Penetration Testing and Ethical Hacking](https://www.sans.org/cyber-security-courses/web-app-penetration-testing-ethical-hacking/)
   - [SEC642: Advanced Web App Penetration Testing, Ethical Hacking, and Exploitation Techniques](https://www.sans.org/cyber-security-courses/advanced-web-app-penetration-testing-ethical-hacking/)
+- [APISEC University](https://www.apisecuniversity.com/#courses)
   
 ## OWASP Resources
 
