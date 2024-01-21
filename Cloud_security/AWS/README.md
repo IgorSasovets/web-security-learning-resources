@@ -34,7 +34,7 @@ Cloud platform security/penetration testing.
 - [AWS Security Series: IAM Vulnerable](https://www.youtube.com/watch?v=za_j7QvcsrY&list=PLi0kul0fEhZ9P5XuQPhEFwxBntUHLk5Bm)
 - [Offensive Cloud](https://github.com/lutzenfried/OffensiveCloud)
 - [Wiz's IAM Challenge writeup](https://kknowl.es/posts/wiz-iam-challenge/)
-- [Practice labds and CTFs](https://github.com/mikeprivette/awesome-sec-challenges?tab=readme-ov-file#cloud-focused)
+- [Practice labs and CTFs](https://github.com/mikeprivette/awesome-sec-challenges?tab=readme-ov-file#cloud-focused)
 
 ## Certifications
 
