@@ -35,6 +35,7 @@ Cloud platform security/penetration testing.
 - [Offensive Cloud](https://github.com/lutzenfried/OffensiveCloud)
 - [Wiz's IAM Challenge writeup](https://kknowl.es/posts/wiz-iam-challenge/)
 - [Practice labs and CTFs](https://github.com/mikeprivette/awesome-sec-challenges?tab=readme-ov-file#cloud-focused)
+- [Pentesting AWS Environments with Pacu, CloudGoat, and ChatGPT](https://cybr.com/courses/pentesting-aws-environments-with-pacu-cloudgoat-and-chatgpt/)
 
 ## Certifications
 
@@ -46,3 +47,4 @@ Cloud platform security/penetration testing.
 - [(ISC)² Certified Cloud Security Professional (CCSP)](https://www.isc2.org/Certifications/CCSP)
 - [CCSP-AWS: AWS Certified Cloud Security Practitioner](https://secops.group/certifications/certified-cloud-security-practitioner-aws-ccsp-aws/)
 - [AWS Cloud Red Team Specialist (CARTS)](https://cyberwarfare.live/product/aws-cloud-red-team-specialist-carts/)
+- [AWS Red Team Expert (ARTE)](https://training.hacktricks.xyz/)
