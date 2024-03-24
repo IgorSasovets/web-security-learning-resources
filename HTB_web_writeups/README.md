@@ -86,3 +86,4 @@ This page contains links to writeups for HTB web machines, CTFs and challenges. 
 - Business CTF 2023
   - [Lazy Ballot](https://github.com/IgorSasovets/ctf-writeups/blob/master/HTB_Business_CTF_2023/HTB_Business_CTF_2023.pdf)
   - [WaterSnake](https://github.com/IgorSasovets/ctf-writeups/blob/master/HTB_Business_CTF_2023/HTB_Business_CTF_2023.pdf)
+- [CyberApocalypse CTF 2024: web challenges](https://github.com/hackthebox/cyber-apocalypse-2024/tree/main/web)
