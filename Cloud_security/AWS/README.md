@@ -34,8 +34,16 @@ Cloud platform security/penetration testing.
 - [AWS Security Series: IAM Vulnerable](https://www.youtube.com/watch?v=za_j7QvcsrY&list=PLi0kul0fEhZ9P5XuQPhEFwxBntUHLk5Bm)
 - [Offensive Cloud](https://github.com/lutzenfried/OffensiveCloud)
 - [Wiz's IAM Challenge writeup](https://kknowl.es/posts/wiz-iam-challenge/)
-- [Practice labs and CTFs](https://github.com/mikeprivette/awesome-sec-challenges?tab=readme-ov-file#cloud-focused)
 - [Pentesting AWS Environments with Pacu, CloudGoat, and ChatGPT](https://cybr.com/courses/pentesting-aws-environments-with-pacu-cloudgoat-and-chatgpt/)
+
+## Labs
+
+This sections contains resources that can be used both for masgtering cloud pentesting and cloud security skills:
+
+- [Cloud hacking labs](https://crush3r.notion.site/5318732e7b6d4179857c5f99d3e94459?v=cdf66dcd37f243399c1a08ab5f317158)
+- [Cybr.com labs](https://cybr.com/hands-on-labs/)
+- [Practice labs and CTFs](https://github.com/mikeprivette/awesome-sec-challenges?tab=readme-ov-file#cloud-focused)
+- [Pwned labs](https://pwnedlabs.io/)
 
 ## Certifications
 
@@ -46,5 +54,7 @@ Cloud platform security/penetration testing.
 - [CSA Certificate of Cloud Auditing Knowledge (CCAK)](https://cloudsecurityalliance.org/education/ccak/)
 - [(ISC)² Certified Cloud Security Professional (CCSP)](https://www.isc2.org/Certifications/CCSP)
 - [CCSP-AWS: AWS Certified Cloud Security Practitioner](https://secops.group/certifications/certified-cloud-security-practitioner-aws-ccsp-aws/)
+- [Certified Cloud Pentesting eXpert-AWS (CCPenX-AWS)](https://secops.group/product/certified-cloud-pentesting-expert/)
 - [AWS Cloud Red Team Specialist (CARTS)](https://cyberwarfare.live/product/aws-cloud-red-team-specialist-carts/)
 - [AWS Red Team Expert (ARTE)](https://training.hacktricks.xyz/)
+- [AWS Red Team Apprentice (ARTA)](https://training.hacktricks.xyz/)
