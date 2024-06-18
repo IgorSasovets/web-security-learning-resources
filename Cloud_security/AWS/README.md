@@ -44,6 +44,7 @@ This sections contains resources that can be used both for masgtering cloud pent
 - [Cybr.com labs](https://cybr.com/hands-on-labs/)
 - [Practice labs and CTFs](https://github.com/mikeprivette/awesome-sec-challenges?tab=readme-ov-file#cloud-focused)
 - [Pwned labs](https://pwnedlabs.io/)
+- [CloudBreach.io: Breaching AWS](https://cloudbreach.io/breachingaws/)
 
 ## Certifications
 
