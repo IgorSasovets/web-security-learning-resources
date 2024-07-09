@@ -52,6 +52,7 @@ Below are resources that I've used during my preparation to this exam:
 - [AWS Security workshops](https://awssecworkshops.com/)
 - [AWS Cloud Quest: Security](https://explore.skillbuilder.aws/learn/course/external/view/elearning/7636/cloud-quest)
 - [AWS Jam Journey: Security](https://explore.skillbuilder.aws/learn/course/external/view/elearning/9284/aws-jam-journey-security)
+- [Cybr.com Hands-On Labs](https://cybr.com/hands-on-labs/)
 
 ## Practice exams
 
