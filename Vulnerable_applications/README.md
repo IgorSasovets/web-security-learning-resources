@@ -15,3 +15,4 @@ Here is a list of applications that you can use to practise your skills in a saf
 - [VAmPI](https://github.com/erev0s/VAmPI)
 - [web-security-dojo](https://www.mavensecurity.com/resources/web-security-dojo)
 - [Gin & Juice Shop](https://ginandjuice.shop/)
+- [InsecureShip](https://github.com/TheCyberpunker/InsecureShip)
