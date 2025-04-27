@@ -90,3 +90,4 @@ This page contains links to writeups for HTB web machines, CTFs and challenges. 
 - Business CTF 2024
   - [HTB writeups](https://github.com/hackthebox/business-ctf-2024/tree/main/web)
   - [My writeup](https://github.com/IgorSasovets/ctf-writeups/blob/master/HTB_Business_CTF_2023/HTB_Business_CTF_2023.pdf)
+- [CyberApocalypse CTF 2025: web writeups](https://github.com/hackthebox/cyber-apocalypse-2025/tree/main/web)
