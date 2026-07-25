@@ -48,7 +48,6 @@ This repository contains list of web security related resources that you can use
 - [Real-World Bug Hunting: A Field Guide to Web Hacking](https://www.amazon.com/Real-World-Bug-Hunting-Field-Hacking/dp/1593278616/ref=sr_1_10?crid=2GM2DG4TXUW6&dchild=1&keywords=web+security&qid=1617222285&s=books&sprefix=Web+sec%2Cstripbooks-intl-ship%2C262&sr=1-10)
 - [Web Application Security, A Beginner's Guide](https://www.amazon.com/Web-Application-Security-Beginners-Guide/dp/0071776168/ref=sr_1_8?crid=2GM2DG4TXUW6&dchild=1&keywords=web+security&qid=1617222285&s=books&sprefix=Web+sec%2Cstripbooks-intl-ship%2C262&sr=1-8)
 - [OpenSSL Cookbook](https://www.feistyduck.com/library/openssl-cookbook/)
-- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, with proof of exploitation.
 - [Metasploit Unleashed](http://www.offensive-security.com/metasploit-unleashed/)
 - [Crypto 101](https://www.crypto101.io/)
 
