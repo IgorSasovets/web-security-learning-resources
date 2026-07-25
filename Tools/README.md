@@ -67,3 +67,4 @@
 - [Wfuzz](https://github.com/xmendez/wfuzz)
 - [WhatWaf](https://github.com/Ekultek/WhatWaf)
 - [XSStrike](https://github.com/s0md3v/XSStrike)
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon)
