@@ -62,6 +62,10 @@ This repository contains list of web security related resources that you can use
 - [HTB CBBH](https://academy.hackthebox.com/preview/certifications/htb-certified-bug-bounty-hunter)
 - [Certified API Security Analyst (CASA)](https://www.apisecuniversity.com/courses/certified-api-security-analyst-exam)
 - [API Security Certified Professional (ASCP) Exam](https://www.apisecuniversity.com/courses/api-security-certified-professional-exam)
+- [HTB Certified Web Exploitation Specialist (HTB CWES)](https://academy.hackthebox.com/preview/certifications/htb-certified-web-exploitation-specialist)
+- [HTB Certified Web Exploitation Expert (HTB CWEE)](https://academy.hackthebox.com/preview/certifications/htb-certified-web-exploitation-expert)
+- [TryHackMe Junior Penetration Tester(PT1)](https://tryhackme.com/certification/junior-penetration-tester)
+- [TryHackMe Web App Pentester Level 1 (WEB1)](https://tryhackme.com/certification/web-application-pentester-level-1)
 
 ## Cheat sheets
 
