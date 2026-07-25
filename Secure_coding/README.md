@@ -47,3 +47,4 @@ This section contains both paid and free resources where you can learn and test 
 - [OWASP Code Review Guide v2](https://owasp.org/www-pdf-archive/OWASP_Code_Review_Guide_v2.pdf)
 - [8 proven code review best practices for developers](https://snyk.io/learn/code-review/)
 - [Secure code review: A practical approach](https://resources.infosecinstitute.com/topic/secure-code-review-practical-approach/)
+- [Using LLMs to secure source code](https://claude.com/blog/using-llms-to-secure-source-code)
